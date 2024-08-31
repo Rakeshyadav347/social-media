@@ -1,0 +1,23 @@
+.app-container{
+  display: flex;
+}
+
+.cont{
+  width: 100%;
+}
+.sidebars{
+  min-height: 750px;
+  
+}
+
+.create-post{
+  margin-top: 5%;
+  max-width: 80%;
+  margin-left: 5%;
+  justify-content: space-evenly;
+}
+.spinner{
+  margin-top: 10rem;
+  margin-left: 10rem;
+}
+
